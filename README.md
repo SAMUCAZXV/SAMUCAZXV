@@ -1,19 +1,9 @@
 ## opa bem vindo 🎦
 
-<!--
-**SAMUCAZXV/SAMUCAZXV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started🚡
-
-- 🔭 beleza com vc
-- 🌱 eu me chamo samuca
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+-meu nome e samuca
+-estou aqui para aprender
+-aqui eu vp cria minhas ideias 🍋
+-vim fazer meu propio trabalho 
 
 
 ![](https://tenor.com/bmrasvphRgS.gif)
